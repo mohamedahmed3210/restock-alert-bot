@@ -30,4 +30,5 @@ Notes:
 This project is under active development, with planned improvements to reliability, scalability, and alert functionality.
 
 Author: Mohamed Ahmed
+
 GitHub: @mohamedahmed3210
