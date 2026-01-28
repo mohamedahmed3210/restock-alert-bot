@@ -1,7 +1,7 @@
 # restock-alert-bot
 Restock Alert Bot
 
-This is a Python script that uses Selenium WebDriver to check whether a specific product size is available on an e-commerce product page.
+This is a Python code that uses Selenium to check whether a specific product in a your size is available on an e-commerce product page.
 
 This project was created to practice browser automation, DOM interaction, and explicit waits using Selenium.
 
